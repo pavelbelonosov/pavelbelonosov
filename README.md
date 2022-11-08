@@ -1,5 +1,4 @@
 🧖 **Pavel Belonosov** (he/him)  
-💻 Software Engineer  
 🏫 SUSU (Applied Linguistics) && University of Helsinki (Digital Education for All [DEFA](https://www2.helsinki.fi/fi/projektit/digital-education-for-all))  
 
 🇷🇺 Russian(native)  
@@ -7,7 +6,6 @@
 🇪🇸 Spanish  
 
 ### 📖 Studies
-🎓 Currently going through Antti Laaksonen *Data structures and algorithms*.  
 🌱 Books with "read" mark in my e-book:
 - Head First Java
 - Spring Boot in Action
